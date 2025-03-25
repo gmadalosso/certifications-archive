@@ -16,10 +16,10 @@ Below is the full list of certifications and completed courses:
 | AWS Essential Training for Developers | LinkedIn Learning | Mar 2024 | Amazon Web Services (AWS) | [Link](https://www.linkedin.com/learning/certificates/41226a02c44cbc89c3d53592e86c33a828f0383edbc6f0fb507ee9fa87ff2ff3) |
 | Microservices Foundations (2018) | LinkedIn Learning | Feb 2024 | Microservices | [Link](https://www.linkedin.com/learning/certificates/825e48b878d43a4bc117daf7fa6f7da1e84436618274ddb0ba4750525cb89782) |
 | JavaScript Fundamentals | Pluralsight | Jan 2024 | Node.js, JavaScript | [Link](https://app.pluralsight.com/achievements/share/4cc10422-b880-49ba-a465-d34819b491e1) |
-| Docker and Kubernetes: The Big Picture | Pluralsight | Oct 2023 | Kubernetes, Docker | [Link]() |
-| React: The Big Picture | Pluralsight | Sep 2023 | React.js, JavaScript | [Link]() |
-| TypeScript: The Big Picture | Pluralsight | Sep 2023 | TypeScript | [Link]() |
-| GIT: The Big Picture | Pluralsight | Aug 2023 | Version Control, Git, GitHub | [Link]() |
+| Docker and Kubernetes: The Big Picture | Pluralsight | Oct 2023 | Kubernetes, Docker | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/Docker-And-Kubernetes-The-Big-Picture.jpg) |
+| React: The Big Picture | Pluralsight | Sep 2023 | React.js, JavaScript | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/React-The-Big-Picture.jpg) |
+| TypeScript: The Big Picture | Pluralsight | Sep 2023 | TypeScript | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/TypeScript-The-Big-Picture.jpg) |
+| Git: The Big Picture | Pluralsight | Aug 2023 | Version Control, Git, GitHub | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/Git-The-Big-Picture.jpg) |
 | Exploring SAP Datasphere – Record of Achievement | SAP | Jul 2023 | Data Warehousing | [Link](https://www.credly.com/badges/4667df12-0f53-48db-acb6-c110d259d25a/linked_in_profile) |
 | Learn the Basics of ABAP Programming on SAP BTP | SAP | Jul 2023 | ABAP, SQL | [Link](https://www.credly.com/badges/c4de3aa4-5175-4156-9479-45ec4b2f5ec1/linked_in_profile) |
 | Get Started with SAP HCM Payroll | SAP | May 2023 | SAP HCM, SAP Payroll | [Link](https://www.credly.com/badges/4088aa64-c6e2-429d-bccb-6c9f12252bed/linked_in_profile) |
