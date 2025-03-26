@@ -4,12 +4,12 @@ This repository contains a personal record of the online courses and certificati
 
 Feel free to explore — I update this archive regularly as I complete new training.
 
-## 📄 Certifications Table
 Below is the full list of certifications and completed courses:
 
 
 | Course Title | Platform | Issued | Skills | Credential |
 |--------------|----------|--------|--------|------------|
+| Software Architecture Foundations | LinkedIn Learning | Mar 2025 | Software Architecture | [Link](https://www.linkedin.com/learning/certificates/b86a1ae92cc80fd4a8a6b37fd6ec0ba8c2cde6d18f2a2822b24d555cfce7e56a) |
 | Database Foundations: Intro to Databases | LinkedIn Learning | Aug 2024 | Databases | [Link](https://www.linkedin.com/learning/certificates/f8841156bb152bd2e6108b45f17f33c066a64b463d810ece5ff637a2e23f8eb9) |
 | Introduction to Artificial Intelligence | LinkedIn Learning | Jul 2024 | Artificial Intelligence (AI) | [Link](https://www.linkedin.com/learning/certificates/d0395f0c4c00080389f81ee58063b0aec0934388a094353554f0bff33f61f96d) |
 | EF SET English Certificate 80/100 (C2 Proficient) | EF SET | Jun 2024 | English as a Second Language | [Link](https://cert.efset.org/fvAfv7) |
