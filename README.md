@@ -2,7 +2,7 @@
 
 This repository contains a personal record of the online courses and certifications I’ve completed as part of my continuous learning in technology and software development.
 
-Feel free to explore — I update this archive regularly as I complete new training.
+Feel free to explore. I update this archive regularly as I complete new training.
 
 Below is the full list of certifications and completed courses:
 
