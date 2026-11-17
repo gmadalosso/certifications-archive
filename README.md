@@ -1,6 +1,6 @@
 # 🎓 Certifications Archive
 
-This repository contains a personal record of the online courses and certifications I’ve completed as part of my continuous learning in technology and software development.
+This repository contains a personal record of the online courses, university qualifications, and certifications I’ve completed as part of my continuous learning in technology and software development.
 
 Feel free to explore. I update this archive regularly as I complete new training.
 
@@ -8,6 +8,11 @@ Below is the full list of certifications and completed courses:
 
 | Course Title | Platform | Issued | Skills | Credential |
 |--------------|----------|--------|--------|------------|
+| Technologist Qualification: Software Quality Manager | Unisinos | Oct 2026 | Software Quality Management | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/COMP470-Software-Quality-Manager.pdf) |
+| Technologist Qualification: Software Project Manager | Unisinos | Oct 2026 | Software Project Management | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/COMP469-Software-Project-Manager.pdf) |
+| Technologist Qualification: Software Tester | Unisinos | Oct 2026 | Software Testing, QA | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/COMP468-Software-Tester.pdf) |
+| Technologist Qualification: Software Designer | Unisinos | Oct 2026 | Software Design | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/COMP467-Software-Designer.pdf) |
+| Technologist Qualification: Software Requirements Analyst | Unisinos | Oct 2026 | Requirements Analysis | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/COMP466-Software-Requirements-Analyst.pdf) |
 | Demystifying the .NET Platform: Structure, Features, and Potential | LinkedIn Learning | Jan 2026 | .NET | [Link](https://www.linkedin.com/learning/certificates/37946beae49c04610d498af7c14974d500d5f422d01fc98377fc83724ae204ea) |
 | Software Architecture Foundations | LinkedIn Learning | Mar 2025 | Software Architecture | [Link](https://www.linkedin.com/learning/certificates/b86a1ae92cc80fd4a8a6b37fd6ec0ba8c2cde6d18f2a2822b24d555cfce7e56a) |
 | Database Foundations: Intro to Databases | LinkedIn Learning | Aug 2024 | Databases | [Link](https://www.linkedin.com/learning/certificates/f8841156bb152bd2e6108b45f17f33c066a64b463d810ece5ff637a2e23f8eb9) |
