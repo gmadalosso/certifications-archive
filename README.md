@@ -4,6 +4,15 @@ This repository contains a personal record of the online courses, university qua
 
 Feel free to explore. I update this archive regularly as I complete new training.
 
+## 🎓 Degrees & Diplomas
+
+| Degree | Institution | Issued | Field | Credential |
+|--------|-------------|--------|-------|------------|
+| Bachelor of Technology in Systems Analysis and Development | Unisinos | Jul 2026 | Systems Analysis and Development | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/BTech-Systems-Analysis-and-Development.pdf) |
+| Technical Diploma in Mechatronics | SENAI | Sep 2015 | Mechatronics, Robotics | [Link](https://github.com/gmadalosso/certifications-archive/blob/main/certificates/Technical-Diploma-Mechatronics.pdf) |
+
+## 📜 Courses & Certifications
+
 Below is the full list of certifications and completed courses:
 
 | Course Title | Platform | Issued | Skills | Credential |
