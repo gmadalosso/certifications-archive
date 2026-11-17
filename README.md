@@ -1,4 +1,4 @@
-# 🎓 Education & Certifications
+# Education & Certifications
 
 This repository contains a personal record of the online courses, university qualifications, and certifications I’ve completed as part of my continuous learning in technology and software development.
 
